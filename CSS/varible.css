@@ -1,0 +1,23 @@
+/* VAR */
+* {
+  --blue: #2196f3;
+  --main: #8b008b;
+  --main: #A9B388;
+  --main: #5F6F52;
+
+
+  --alt-main: #800080;
+  --green: #009688;
+  --green: #2196f3;
+
+  --red: #f44036;
+  --sec: #ececec;
+
+
+  --tth: #f9f9f9;
+  --blk: #191919;
+  --foot: #b9b9b9;
+  --padding: 3em;
+  --gap: 30px;
+}
+/* VAR */
